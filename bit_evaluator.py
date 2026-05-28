@@ -6,7 +6,7 @@ import re
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # LangChain & Pydantic Imports
 from langchain_google_genai import ChatGoogleGenerativeAI

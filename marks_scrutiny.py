@@ -2,7 +2,7 @@ import os
 import base64
 import shutil
 from pathlib import Path
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage
 from langchain_core.output_parsers import JsonOutputParser

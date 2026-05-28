@@ -2,7 +2,7 @@ import os
 import shutil  # Required for moving files
 from pathlib import Path
 from pdf2image import convert_from_path
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # load_dotenv()
 

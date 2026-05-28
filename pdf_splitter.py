@@ -2,7 +2,7 @@ import os
 import glob
 import shutil
 from pdf2image import convert_from_path
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # load_dotenv()
 import streamlit as st

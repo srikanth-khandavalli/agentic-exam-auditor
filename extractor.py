@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # load_dotenv()
 import os
