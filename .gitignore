@@ -1,0 +1,23 @@
+# Streamlit local secrets configuration
+.streamlit/secrets.toml
+
+# Local environment configuration
+.env
+
+# Python background files
+__pycache__/
+*.pyc
+
+# Local data processed dumps
+data/
+data/process/
+data/success/
+data/error/
+data/archive_pdfs/
+data/bit/process/
+data/bit/success/
+data/bit/error/
+data/bit/archived_pdfs/
+data/award_sheet/process/
+data/award_sheet/success/
+data/award_sheet/error/
